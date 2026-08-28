@@ -1,5 +1,3 @@
-<img width="1919" height="867" alt="image" src="https://github.com/user-attachments/assets/e75ac015-6dd4-423d-9087-68a25318aa0e" /><img width="1919" height="867" alt="image" src="https://github.com/user-attachments/assets/fc3e9213-1591-4ea3-8fba-f587227859e0" /><div align="center">
-
 # 🏢 Enterprise Operations Hub (TTS Ops Hub)
 ### *All-in-One Operations, Inventory, CCTV Infrastructure & Field Service Management System*
 
